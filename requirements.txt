@@ -1,0 +1,2 @@
+pyhwp==0.1b15
+googletrans==3.0.0
